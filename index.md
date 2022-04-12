@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michael Brickey's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Michael Brickey
+20th Century US, Urban & Environmental History, Race & Ethnicty.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,22 +13,22 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Digital Humanities Graduate Assistant, Walter J. Ong, S.J., Center for Digital Humanities 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Project Management, Public Speaking, Educational Workshops, Data Analysis
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Urban History, Urban Planning and Development, Environmental Justice
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2003`
+__BA Political Science, University of Missouri-Columbia.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
