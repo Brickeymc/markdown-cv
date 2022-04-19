@@ -21,8 +21,9 @@ Urban History, Environmental Studies, Urban Planning and Development, Environmen
 
 
 ## Education
-`2018`
+2018
 __MA American Studies, Saint Louis University__
+
 `2017`
 __MA History, San Diego State University__
 `2003`
