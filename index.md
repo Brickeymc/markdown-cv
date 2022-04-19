@@ -22,53 +22,33 @@ Project Management, Public Speaking, Educational Workshops, Data Analysis
 
 ### Research interests
 
-Urban History, Urban Planning and Development, Environmental Justice
+Urban History, Environmental Studies, Urban Planning and Development, Environmental Justice
 
 
 ## Education
-
+`2018`
+__MA American Studies, Saint Louis University__
+`2017`
+__MA History, San Diego State University__
 `2003`
-__BA Political Science, University of Missouri-Columbia.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+__BA Political Science, University of Missouri-Columbia__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+Research Fellowship, *State Hisorical Society of Iowa*
 
-Associate, *French Academy of Science*, Paris, France
+Research Fellowship, *Divided Cities Initiative*, Washington University in St. Louis
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
@@ -86,6 +66,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022 -->
 
 
