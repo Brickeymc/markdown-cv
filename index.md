@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Michael Brickey's CV
+title: Michael Brickey's Curriculum Vitae
 ---
 # Michael Brickey
 20th Century US, Urban & Environmental History, Race & Ethnicty
@@ -24,18 +24,23 @@ Urban History, Environmental Studies, Urban Planning and Development, Environmen
 2018
 __MA American Studies, Saint Louis University__
 
-`2017`
+2017
 __MA History, San Diego State University__
-`2003`
+
+2003
 __BA Political Science, University of Missouri-Columbia__
 
 
 ## Awards
 
-`2021`
+2021
 Research Fellowship, *State Hisorical Society of Iowa*
 
+2020
 Research Fellowship, *Divided Cities Initiative*, Washington University in St. Louis
+
+2020
+Brennan Summer Research Fellowship, *Graduate Student Association*, Saint Louis University
 
 
 
@@ -49,14 +54,7 @@ Research Fellowship, *Divided Cities Initiative*, Washington University in St. L
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
