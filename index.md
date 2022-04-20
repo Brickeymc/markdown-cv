@@ -3,7 +3,8 @@ layout: cv
 title: Michael Brickey's Curriculum Vitae
 ---
 # Michael Brickey
-20th Century US, Urban & Environmental History, Race & Ethnicty
+
+PhD Candidate, American Studies, Saint Louis University
 
 
 ## Currently
@@ -22,13 +23,13 @@ Urban History, Environmental Studies, Urban Planning and Development, Environmen
 
 ## Education
 2018
-__MA American Studies, Saint Louis University__
+__MA American Studies__, Saint Louis University
 
 2017
-__MA History, San Diego State University__
+__MA History__, San Diego State University
 
 2003
-__BA Political Science, University of Missouri-Columbia__
+__BA Political Science__, University of Missouri-Columbia
 
 
 ## Awards
@@ -46,7 +47,7 @@ Research Fellowship, *The Divided City Urban Humanities Initiative*, Washington 
 Sally Casanova Pre-Doctoral Scholarship, The California State University
 
 2009
-Lionel Ridout Memorial Scholarship, *History Department*, San Diego State University
+Lionel Ridout Memorial Scholarship, History Department, San Diego State University
 
 ## Conferences
 
@@ -78,8 +79,6 @@ Lionel Ridout Memorial Scholarship, *History Department*, San Diego State Univer
 
 
 
-<!-- ### Footer
-
-Last updated: April 2022 -->
+<!-- ### Last updated: April 2022 -->
 
 
