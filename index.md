@@ -80,6 +80,4 @@ Lionel Ridout Memorial Scholarship, *History Department*, San Diego State Univer
 
 <!-- ### Footer
 
-Last updated: April 2022 -->
-
 
